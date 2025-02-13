@@ -19,6 +19,6 @@ In this analysis, the total number of complaints received from customers was 2,2
 [Ahmad Firdaus] Consumer Complaint Analysis.pdf
 ## Dashboard of Cutomer Complaint Analysis
 
-https://lookerstudio.google.com/u/0/reporting/eee916fc-edb0-49a6-8612-75fcae5dbea7/page/YiXZE/edit 
+https://lookerstudio.google.com/reporting/eee916fc-edb0-49a6-8612-75fcae5dbea7 
 
 
